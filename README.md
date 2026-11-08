@@ -1,9 +1,9 @@
 [README.md](https://github.com/user-attachments/files/33240685/README.md)
 # dexori
 
-RoboMaster · 机器人控制 · 机器人学习
+RoboMaster · 机器人控制 · 机器学习 · 具身智能
 
-之前主要做轮腿机器人的控制和 STM32 开发，也对 VLA、强化学习（RL）具身智能感兴趣
+之前主要做轮腿机器人的控制和 STM32 开发，目前以及后续研究 VLA、强化学习（RL）等方向
 
 这里放自己做的项目，以及建模、调试过程中的记录。
 
